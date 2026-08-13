@@ -86,19 +86,12 @@
   </a> 
 </p>
 
+
 <br/>
 
-<p>
-  <img align="left" src="https://github-stats-extended.vercel.app/api/top-langs?username=ganesh15040212&show_icons=true&locale=en&layout=compact" alt="ganesh15040212" />
+<p align="center">
+  <img width="32%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ganesh15040212&show_icons=true&locale=en&layout=compact" alt="ganesh15040212" />
+  <img width="34%" src="https://github-stats-extended.vercel.app/api?username=ganesh15040212&show_icons=true&locale=en" alt="ganesh15040212" />
+  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh15040212&" alt="ganesh15040212" />
 </p>
 
-<br clear="left"/>
-<br/>
-
-<p>
-  <img align="center" src="https://github-stats-extended.vercel.app/api?username=ganesh15040212&show_icons=true&locale=en" alt="ganesh15040212" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh15040212&" alt="ganesh15040212" />
-</p>
