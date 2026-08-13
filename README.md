@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://ganesh15040212.vercel.app/](https://ganeshkumardev-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ganeshkumardev-portfolio.vercel.app/](https://ganeshkumardev-portfolio.vercel.app/)
 
 - 💬 Ask me about **MERN, MEAN and PHP**
 
