@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ganeshkumardev-portfolio.vercel.app/](https://ganeshkumardev-portfolio.vercel.app/)
 
-- 💬 Ask me about **MERN, MEAN and PHP**
+- 💬 Ask me about **MERN & MEAN**
 
 - 📫 How to reach me **ganeshmanivnr2004@gmail.com**
 
